@@ -1,0 +1,31 @@
+
+
+
+html, body{
+    margin: 0%;
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+}
+
+
+/* CSS Variables */ 
+
+:root{
+    --primary-color: #FF5C58;
+    --primary-color2: #FE8F8F;
+    --title-color: #141313;
+    --text-color: #777777;  
+    --border-color: #201f1f17;  
+    --gradient-color: linear-gradient(120deg, #fccb90 0%, #d57eeb 100%);
+    --shadow-color:  0px 10px 30px rgba(118, 85, 225, 0.3);
+    --box-shadow: 0px 10px 30px rgba(57, 56, 61, 0.205);
+    --red1:#FF5C58;
+    --red2:#FE8F8F;
+    --pink1: #FCD2D1;
+    --pink2 : #FFEDD3;
+   
+
+    /* font family variables. */ 
+    --roboto: 'Roboto', cursive;
+} 
